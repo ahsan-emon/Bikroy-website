@@ -1,0 +1,141 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', 'PF DinText Pro', Arial, Helvetica, sans-serif;
+}
+.img{
+	margin-left: 400px;
+	cursor: pointer;
+	position: relative;
+}
+.img a{
+	color: red;
+	font-size: 15px;
+	text-decoration: none;
+	position: absolute;
+	top: 3px;
+	right: 555px;
+	padding: 0 5px;
+	border: 1px solid #dcdde1;
+	display: none;
+}
+.img:hover a{
+	display: block;
+}
+.login-area{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 250px;
+	background: #149777;
+	position: relative;
+}
+.left-area{
+	position: relative;
+}
+.left-area img{
+	padding: 15px 0;
+	margin-left: 400px;
+	float: left;
+}
+.left-area a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #fff;
+	position: absolute;
+	top: 24px;
+	margin-left: 30px;
+}
+.left-area button{
+	color: #fff;
+	border: 1px solid rgba(12, 36, 97,.4);
+	font-size: 11px;
+	background: #149777;
+	padding: 8px 12px;
+	position: absolute;
+	top: 24px;
+	margin-left: 160px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.right-area{
+	position: relative;
+}
+.right-area svg{
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	top: 18px;
+	margin-left: 450px;
+	cursor: pointer;
+}
+.right-area a label{
+	text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    position: absolute;
+    top: 24px;
+    margin-left: 488px;
+}
+.login .log-ico{
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	margin-left: 85px;
+	cursor: pointer;
+}
+.login .log{
+	text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    position: absolute;
+    top: 24px;
+    margin-left: 490px;
+	width: 100px;
+}
+.add-bt button{
+	color: black;
+    border: none;
+    font-size: 15px;
+    background: #FFC800;
+    padding: 13px 12px;
+    position: absolute;
+    top: 11px;
+    margin-left: 650px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.add-loc a{
+	text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    position: absolute;
+    top: 110px;
+    margin-left: 260px;
+	background: #10846F;
+	padding: 6px 12px;
+	border-radius: 50px;
+}
+.add-loc a img{
+	width: 18px;
+	height: 16px;
+}
+.search input{
+    font-size: 16px;
+    position: absolute;
+    top: 160px;
+    margin: auto;
+	background: #fff;
+	padding: 18px 24px;
+	border-radius: 50px;
+	border: none;
+	width: 34%;
+}
+.search img{
+    position: absolute;
+    top: 163px;
+    width: 48px;
+    height: 48px;
+    margin-left: 648px;
+	cursor: pointer;
+}

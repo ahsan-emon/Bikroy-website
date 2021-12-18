@@ -1,0 +1,324 @@
+@media all and (max-width: 1750px) {
+  .middle-area {
+    width: 60%;
+  }
+  .img a {
+    right: 383px;
+  }
+  .bottom-area {
+    width: 51%;
+  }
+}
+@media all and (max-width: 1540px) {
+  .middle-area {
+    width: 67%;
+  }
+  .img a {
+    right: 280px;
+  }
+  .mid-area {
+    width: 60%;
+  }
+  .context-box {
+    width: 60%;
+  }
+  .context-box2 {
+    width: 60%;
+  }
+  .bottom-area {
+    width: 60%;
+  }
+  .footer-area {
+    width: 55%;
+  }
+  #second-hr {
+    width: 55%;
+    margin-top: 350px;
+  }
+  .end {
+    width: 55%;
+  }
+}
+@media all and (max-width: 1280px) {
+  .middle-area {
+    width: 80%;
+  }
+  .img a {
+    right: 154px;
+  }
+  .mid-area {
+    width: 70%;
+  }
+  .context-box {
+    width: 70%;
+  }
+  .context-box2 {
+    width: 70%;
+  }
+  .bottom-area {
+    width: 70%;
+  }
+  .footer-area {
+    width: 60%;
+  }
+  #second-hr {
+    width: 60%;
+  }
+  .end {
+    width: 60%;
+  }
+}
+@media all and (max-width: 1100px) {
+  .middle-area {
+    width: 95%;
+  }
+  .img a {
+    right: 62px;
+  }
+  .mid-area {
+    width: 80%;
+  }
+  .context-box {
+    width: 80%;
+  }
+  .context-box2 {
+    width: 80%;
+  }
+  .bottom-area {
+    width: 85%;
+  }
+  .footer-area {
+    width: 75%;
+  }
+  #second-hr {
+    width: 75%;
+  }
+  .end {
+    width: 75%;
+  }
+}
+@media all and (max-width: 960px) {
+  .middle-area {
+    width: 100%;
+  }
+  .img img {
+    width: 90%;
+  }
+  .img a {
+    right: 51px;
+  }
+  .login button {
+    font-size: 14px;
+    padding: 12px 11px;
+    margin: 0 30px 0 0;
+  }
+  .search img {
+    right: 125px;
+  }
+  .mid-area {
+    width: 90%;
+  }
+  .context-box {
+    width: 90%;
+  }
+  .context-box2 {
+    width: 90%;
+  }
+  .bottom-area {
+    width: 95%;
+  }
+  .footer-area {
+    width: 85%;
+  }
+  #second-hr {
+    width: 85%;
+  }
+  .end {
+    width: 85%;
+  }
+}
+@media all and (max-width: 770px) {
+  .img img {
+    width: 90%;
+  }
+  .img a {
+    right: 40px;
+  }
+  .left-area img {
+    width: : 50px;
+    height: 30px;
+  }
+  .left-area a {
+    font-size: 13px;
+    margin: 7px 15px 0 15px;
+  }
+  .left-area button {
+    font-size: 9px;
+    margin-top: 4px;
+    padding: 7px 9px;
+  }
+  .chat #chat {
+    width: 30px;
+    height: 30px;
+  }
+  .chat label {
+    font-size: 12px;
+    margin: 7px 15px 0 0;
+  }
+  .login #log {
+    width: 30px;
+    height: 30px;
+  }
+  .login label {
+    font-size: 12px;
+    cursor: pointer;
+    margin: 7px 20px 0 2px;
+    float: left;
+  }
+  .login button {
+    font-size: 9px;
+    padding: 7px 9px;
+    margin: 2px 0 0 0;
+  }
+  .search img {
+    right: 95px;
+  }
+  .items .cat {
+    padding: 10px 0 3px 0;
+    font-size: 8px;
+  }
+  .items-area li {
+    margin-bottom: 20px;
+  }
+  .items-area svg {
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+  }
+  .items-area p {
+    font-size: 12px;
+  }
+  .items-area span {
+    font-size: 10px;
+  }
+  .context-box .context1 {
+    margin: 30px 0px 30px 0px;
+  }
+  .context-box .context1 .context-img svg {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 45px;
+    left:25px;
+  }
+  .context1 .context-text {
+    width: 60%;
+    padding: 25px 5px 20px 0px;
+  }
+  .context1 .context-text h2 {
+    font-size: 15px;
+  }
+  .context1 .context-text p {
+    font-size: 11px;
+  }
+  .context1 .context-text button {
+    padding: 9px 15px;
+    width: 70%;
+    font-size: 12px;
+  }
+  .context-box .context2 {
+    margin: 30px 0px 30px 0px;
+  }
+  .context-box .context2 .context2-layer svg {
+    width: 100px;
+    height: auto;
+  }
+  .context2 .context2-layer p {
+    font-size: 11px;
+  }
+  .context2 .context2-layer button {
+    padding: 9px 15px;
+    width: 50%;
+    font-size: 12px;
+  }
+  .context-box2 .box2 {
+    margin: 0px 0.5px 30px 0px;
+  }
+  .context-box2 .box2 .box2-img {
+    width: 20%;
+  }
+  .context-box2 .box2 .box2-img svg {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 55px;
+    left: 25px;
+  }
+  .box2 .box2-text {
+    width: 74%;
+    padding: 10px 20px 15px 0px;
+  }
+  .box2 .box2-text div img {
+    padding-right: 3px;
+    width: 120px;
+  }
+  .box2 .box2-text h2 {
+    font-size: 15px;
+    padding-top: 1px;
+  }
+  .box2 .box2-text p {
+    font-size: 12px;
+  }
+  .box2 .box2-text button {
+    padding: 10px 12px;
+    width: 35%;
+    font-size: 13px;
+  }
+  .quick-link h2 {
+    font-size: 12px;
+    top: 748px;
+    left: 20px;
+  }
+  .total ul li {
+    width: 20%;
+    height: 160px;
+  }
+  .total h4 {
+    font-size: 12px;
+  }
+  .total p {
+    font-size: 11px;
+  }
+  .info #first li {
+    width: 31%;
+  }
+  .info #second li {
+    padding-bottom: 30px;
+  }
+  .info h2 {
+    font-size: 12px;
+  }
+  .info h3 {
+    font-size: 14px;
+  }
+  .info a {
+    font-size: 10px;
+  }
+  #first i {
+    padding-right: 5px;
+  }
+}
+@media all and (max-width: 1120px) {
+}
+@media all and (max-width: 1094px) {
+}
+@media all and (max-width: 1000px) {
+}
+@media all and (max-width: 700px) {
+}
+@media all and (max-width: 500px) {
+}
+@media all and (max-width: 400px) {
+}
+
+/* footer area start from here */
